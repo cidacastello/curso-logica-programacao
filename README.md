@@ -5,6 +5,14 @@ _**Programar é muito mais do que escrever códigos**_
 
 _**Programar é a arte de pensar para escrever códigos**_
 
+Bem-vindos ao reposotório do Curso de Lógica de Programação do Zero para Iniciantes!
+
+Aqui você encontra os materiais de apoio das aulas e instalação das ferramentas que vamos utilizar, bem como conteúdos utilizados.
+
+Já clicla lá na *star* e me segue aqui!.
+
+Também se inscreve no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ativa a notificações e acompanhe as dicas e notícias pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/).
+
 ## Sobre o Curso
 
 ### Formato
@@ -45,13 +53,17 @@ _**Programar é a arte de pensar para escrever códigos**_
 * Estruturas condicionais, de seleção e repetição.
 * Estrutura de dados indexada: Vetor e Matriz
 
+### Material de apoio
+
 ### Ferramentas / Softwares
 
 *Português Estruturado*
 
-[VisuAlg](https://visualg3.com.br/)
+Link para fazer o *download* das ferramentas/programas
 
-[Portugol Studio](http://lite.acad.univali.br/portugol/)
+* [VisuAlg](https://visualg3.com.br/)
+
+* [Portugol Studio](http://lite.acad.univali.br/portugol/)
 
 ### Sistema Operacional
 

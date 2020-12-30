@@ -9,9 +9,11 @@ Bem-vindos ao reposotório do Curso de Lógica de Programação do Zero para Ini
 
 Aqui você encontra os materiais de apoio das aulas e instalação das ferramentas que vamos utilizar, bem como conteúdos utilizados.
 
-Já clicla lá na *star* e me segue aqui!.
+Já clica lá na *star* aqui do GitHub :point_up: :wink:
 
-Também se inscreve no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ativa a notificações e acompanhe as dicas e notícias pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/).
+Também inscreve-se no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ative o sininho :bell:, assim o Youtube te avisa sempre que um vídeo novo for publicado :+1:
+
+Acompanhe as dicas e notícias pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/) :+1:
 
 ## Sobre o Curso
 

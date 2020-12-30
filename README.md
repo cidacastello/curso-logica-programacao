@@ -51,7 +51,7 @@ _**Programar é a arte de pensar para escrever códigos**_
 
 [VisuAlg](https://visualg3.com.br/)
 
-[Portugol Studio](https://sourceforge.net/projects/visualg30/)
+[Portugol Studio](http://lite.acad.univali.br/portugol/)
 
 ### Sistema Operacional
 

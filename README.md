@@ -7,7 +7,7 @@ _**Programar é a arte de pensar para escrever códigos**_
 
 ## Sobre o Curso
 
-### Formato do Curso
+### Formato
 * On-line, com vídeos gravados no YouTube.
 
 * Totalmente gratuito.

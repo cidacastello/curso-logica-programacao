@@ -8,17 +8,17 @@ _**Programar é a arte de pensar para escrever códigos**_
 ## Sobre o Curso
 
 ### Formato do Curso
-On-line, com vídeos gravados no YouTube.
+* On-line, com vídeos gravados no YouTube.
 
-Totalmente gratuito.
+* Totalmente gratuito.
 
-Não disponibiliza certificado.
+* Não disponibiliza certificado.
 
-Aulas teóricas para abordar os conceitos e aplicar na prática.
+* Aulas teóricas para abordar os conceitos e aplicar na prática.
 
-Recheado de exercícios explicados passo-a-passo e resolvidos.
+* Recheado de exercícios explicados passo-a-passo e resolvidos.
 
-Desafios com exercícios e respostas.
+* Desafios com exercícios e respostas.
 
 ### Público Alvo
 
@@ -47,7 +47,7 @@ Desafios com exercícios e respostas.
 
 ### Ferramentas / Softwares
 
-*Português Estruturado
+*Português Estruturado*
 
 [VisuAlg](https://visualg3.com.br/)
 
@@ -55,7 +55,8 @@ Desafios com exercícios e respostas.
 
 ### Sistema Operacional
 
-Windows
+* Windows
+* Preferencialmente, fazer o curso utilizando um computador (PC ou Notebook)
 
 
 ## Links

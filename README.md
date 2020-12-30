@@ -1,5 +1,6 @@
 # Curso de Lógica de Programação do Zero para Iniciantes
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/cidacastello/curso-logica-programacao/blob/main/LICENSE)
+
 Programar é muito mais do que escrever códigos
 
 Programar é a arte de pensar para escrever códigos

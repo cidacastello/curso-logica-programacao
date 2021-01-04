@@ -13,7 +13,7 @@ Já clica na *star* :star:, aqui do GitHub :point_up: :wink:
 
 Também inscreva-se no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ative o sininho :bell:, assim o Youtube te avisa sempre que um vídeo novo for publicado :+1:
 
-Acompanhe as dicas e notícias pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/) :+1:
+Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/) :+1:
 
 ## Sobre o Curso
 

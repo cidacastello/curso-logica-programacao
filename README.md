@@ -43,7 +43,7 @@ Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instag
 
 * Apresentar conceitos fundamentais de algoritmos e lógica de programação.
 
-* Resolver problemas de forma teórica focando na análise do problema.
+* Resolver problemas de forma teórica com foco na análise do problema.
 
 * Prática (*hands-on*, mão na massa).
 

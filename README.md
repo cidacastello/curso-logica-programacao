@@ -72,6 +72,9 @@ Link para fazer o *download* das ferramentas/programas
 * Windows
 * Preferencialmente, fazer o curso utilizando um computador (PC ou Notebook)
 
+## Lista de Exercícios
+
+* Primeira lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/curso-logica-programacao/tree/main/lista-de-exercicios)
 
 ## Links
 

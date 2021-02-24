@@ -16,7 +16,7 @@ inicio
       leia(C)
       
       //processamento
-       SOMA <- A + B + B
+       SOMA <- A + B + C
        SUB <- A - B - C
        MULT <- A * B * C
        DIVI <- A / B / C

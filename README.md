@@ -76,6 +76,7 @@ Link para fazer o *download* das ferramentas/programas
 
 * Primeira lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/curso-logica-programacao/tree/main/lista-de-exercicios)
 * Segunda lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/curso-logica-programacao/tree/main/lista-de-exercicios)
+* Terceira lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/curso-logica-programacao/tree/main/lista-de-exercicios)
 
 ## Links
 

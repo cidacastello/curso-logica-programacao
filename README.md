@@ -67,6 +67,8 @@ Link para fazer o *download* das ferramentas/programas
 
 * [Portugol Studio](http://lite.acad.univali.br/portugol/)
 
+* [Portugol WebStudio](https://portugol-webstudio.cubos.io/)
+
 ### Sistema Operacional
 
 * Windows

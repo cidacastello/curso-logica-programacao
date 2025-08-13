@@ -1,0 +1,14 @@
+name: Close Pull Requests
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  close-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close PR
+        uses: peter-evans/close-pull-request@v4
+        with:
+          comment: "Este repositório não aceita Pull Requests. PRs enviados serão automaticamente fechados."
